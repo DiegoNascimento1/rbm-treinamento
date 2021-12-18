@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/rbm-treinamento/static/css/main.6d65c73d.css",
+    "main.js": "/rbm-treinamento/static/js/main.f488f0bd.js",
+    "index.html": "/rbm-treinamento/index.html",
+    "main.6d65c73d.css.map": "/rbm-treinamento/static/css/main.6d65c73d.css.map",
+    "main.f488f0bd.js.map": "/rbm-treinamento/static/js/main.f488f0bd.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6d65c73d.css",
+    "static/js/main.f488f0bd.js"
+  ]
+}
